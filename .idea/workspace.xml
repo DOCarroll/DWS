@@ -7,8 +7,8 @@
     </list>
     <ignored path="DWS.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1373758526489" ignored="false" />
-    <file path="/zen_garden.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1373758549771" ignored="false" />
+    <file path="/Dummy.txt" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1373758551537" ignored="false" />
+    <file path="/zen_garden.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1373758579024" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +31,7 @@
       <file leaf-file-name="zen_garden.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/zen_garden.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="6" selection-start="263" selection-end="263" vertical-scroll-proportion="0.19565217">
+            <state line="9" column="10" selection-start="267" selection-end="267" vertical-scroll-proportion="0.19565217">
               <folding />
             </state>
           </provider>
@@ -168,7 +168,11 @@
       <created>1373758528111</created>
       <updated>1373758528111</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Setup &lt;p&gt; tags">
+      <created>1373758553703</created>
+      <updated>1373758553703</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -267,7 +271,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/zen_garden.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="6" selection-start="263" selection-end="263" vertical-scroll-proportion="0.19565217">
+        <state line="9" column="10" selection-start="267" selection-end="267" vertical-scroll-proportion="0.19565217">
           <folding />
         </state>
       </provider>
