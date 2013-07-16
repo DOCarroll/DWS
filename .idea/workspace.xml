@@ -2,18 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60819321-cd31-46ad-bce1-fd02541df6be" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/textstyles/styling-text.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/textstyles/css/textstyles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textstyles/styling-text.html" afterPath="$PROJECT_DIR$/textstyles/styling-text.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textstyles/css/textstyles.css" afterPath="$PROJECT_DIR$/textstyles/css/textstyles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DWS.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374013958932" ignored="false" />
+    <file path="/Dummy.txt" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374015925149" ignored="false" />
     <file path="/zen_garden.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1373779211702" ignored="false" />
     <file path="/color.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374012865604" ignored="false" />
     <file path="/main.css" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374013938624" ignored="false" />
-    <file path="/styling-text.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374015795321" ignored="false" />
-    <file path="/textstyles.css" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374015742052" ignored="false" />
+    <file path="/styling-text.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374016124225" ignored="false" />
+    <file path="/textstyles.css" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374016112412" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,7 @@
       <file leaf-file-name="styling-text.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/textstyles/styling-text.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="89" selection-start="8330" selection-end="8330" vertical-scroll-proportion="0.86706054">
+            <state line="12" column="22" selection-start="390" selection-end="390" vertical-scroll-proportion="0.2658789">
               <folding />
             </state>
           </provider>
@@ -54,7 +54,7 @@
       <file leaf-file-name="textstyles.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/textstyles/css/textstyles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="19" selection-start="599" selection-end="599" vertical-scroll-proportion="-25.0">
+            <state line="37" column="5" selection-start="569" selection-end="569" vertical-scroll-proportion="-23.125">
               <folding />
             </state>
           </provider>
@@ -308,7 +308,15 @@
       <created>1374013960955</created>
       <updated>1374013960955</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Publishing styling-text.html and textstyles.css">
+      <created>1374015828050</created>
+      <updated>1374015828050</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Test">
+      <created>1374015927279</created>
+      <updated>1374015927279</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -376,7 +384,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete Finished Upload of Css Colors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -396,6 +404,8 @@
     <MESSAGE value="Uploading all content in body" />
     <MESSAGE value="Uploading color.html file" />
     <MESSAGE value="Complete Finished Upload of Css Colors" />
+    <MESSAGE value="Publishing styling-text.html and textstyles.css" />
+    <MESSAGE value="Test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -429,6 +439,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/textstyles/css/textstyles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="5" selection-start="569" selection-end="569" vertical-scroll-proportion="-23.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/csscolors/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="21" selection-start="273" selection-end="289" vertical-scroll-proportion="-9.375">
@@ -436,16 +453,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/textstyles/css/textstyles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="19" selection-start="599" selection-end="599" vertical-scroll-proportion="-25.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/textstyles/styling-text.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="89" selection-start="8330" selection-end="8330" vertical-scroll-proportion="0.86706054">
+        <state line="12" column="22" selection-start="390" selection-end="390" vertical-scroll-proportion="0.2658789">
           <folding />
         </state>
       </provider>
