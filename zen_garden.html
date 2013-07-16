@@ -3,14 +3,48 @@
 <head>
     <meta charset="utf-8"/>
     <title>Zen Garden</title>
+    <style>
+        h1 {
+            color: skyblue;
+        }
+        h3 {
+            color: #0000FF;
+            font-weight:bolder;
+        }
+        body {
+            background-color: dodgerblue;
+            text-align: center;
+            padding-left: 300px;
+            padding-right: 300px;
+        }
+        p {
+            color: cyan;
+            font-weight: bolder;
+        }
+        .pspace {
+            padding-bottom: 20px;
+        }
+        #container {
+            background-color: darkcyan;
+            height:1000px;
+        }
+        hr {
+            border: 1px solid powderblue;
+        }
+    </style>
 </head>
     <body>
+    <div id="container">
+    <h1>Css Layouts</h1>
     <h3>The Kyoto Forest</h3>
         <p>The first css layout I chose was the Kyoto Forest, found at http://www.csszengarden.com/?cssfile=/207/207.css.</p>
-        <p>This css layout did a few things. My favorite being the image positioned at the top center, it creates a smooth transition to the background white color. Also, the headers were placed inside of background images./p>
-    <h3>Make 'em Proud</h3>
-        <p>This developer used almost exactly the same methods as the previous one. The only difference is in his code, he defined the background images inside the preamble classes.</p>
-    <h3>Ocean Scape</h3>
+        <p class=pspace>This css layout did a few things. My favorite being the image positioned at the top center, it creates a smooth transition to the background white color. Also, the headers were placed inside of background images./p>
+        <hr />
+        <h3>Make 'em Proud</h3>
+        <p class=pspace>This developer used almost exactly the same methods as the previous one. The only difference is in his code, he defined the background images inside the preamble classes.</p>
+        <hr />
+        <h3>Ocean Scape</h3>
         <p>This developer simply defines styles based on size, color, and font, but adds diversity by placing divider images between headers.</p>
+    </div>
     </body>
 </html>
