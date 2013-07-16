@@ -1,0 +1,25 @@
+/*Got Color Ideas from http://colorschemedesigner.com/ */
+body {
+    background-color:#009999;
+
+    color:#A64B00;
+}
+h1 {
+    background-color:#006363;
+    color:#FFB273;
+    height:50px;
+    margin-top:0;
+    margin-bottom:0;
+    opacity: 0.5;
+}
+h2 {
+    background-color:rgb(92,204,204);
+    margin-bottom:0;
+    margin-left:0;
+    margin-right:0;
+    color:hsl(179, 100%, 50%);
+}
+h3 {
+    background-color:lightseagreen;
+    color:peachpuff;
+}

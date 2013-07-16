@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60819321-cd31-46ad-bce1-fd02541df6be" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/DWS.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csscolors/color.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csscolors/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csscolors/color.html" afterPath="$PROJECT_DIR$/csscolors/color.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zen_garden.html" afterPath="$PROJECT_DIR$/zen_garden.html" />
     </list>
     <ignored path="DWS.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374010351048" ignored="false" />
+    <file path="/Dummy.txt" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374012035556" ignored="false" />
     <file path="/zen_garden.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1373779211702" ignored="false" />
-    <file path="/color.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374011921780" ignored="false" />
+    <file path="/color.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374012865604" ignored="false" />
+    <file path="/main.css" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374013938624" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,16 @@
       <file leaf-file-name="color.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/csscolors/color.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="39" selection-start="7538" selection-end="7538" vertical-scroll-proportion="0.7976366">
+            <state line="3" column="42" selection-start="67" selection-end="67" vertical-scroll-proportion="0.06646972">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/csscolors/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="27" selection-start="446" selection-end="446" vertical-scroll-proportion="-15.0">
               <folding />
             </state>
           </provider>
@@ -61,6 +69,9 @@
       <list>
         <option value="$PROJECT_DIR$/zen_garden.html" />
         <option value="$PROJECT_DIR$/color.html" />
+        <option value="$PROJECT_DIR$/csscolors/css/main.css.html" />
+        <option value="$PROJECT_DIR$/csscolors/color.html" />
+        <option value="$PROJECT_DIR$/csscolors/css/main.css" />
       </list>
     </option>
   </component>
@@ -125,6 +136,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="csscolors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DWS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DWS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="csscolors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -222,13 +251,18 @@
       <created>1373760001116</created>
       <updated>1373760001116</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Uploading color.html file">
+      <created>1374012038245</created>
+      <updated>1374012038245</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="22" width="1420" height="860" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -242,7 +276,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -290,7 +323,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uploading all content in body" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uploading color.html file" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -308,6 +341,7 @@
     <MESSAGE value="Setup Header and Title" />
     <MESSAGE value="Setup &lt;p&gt; tags" />
     <MESSAGE value="Uploading all content in body" />
+    <MESSAGE value="Uploading color.html file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -334,9 +368,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/csscolors/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="27" selection-start="446" selection-end="446" vertical-scroll-proportion="-15.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/csscolors/color.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="39" selection-start="7538" selection-end="7538" vertical-scroll-proportion="0.7976366">
+        <state line="3" column="42" selection-start="67" selection-end="67" vertical-scroll-proportion="0.06646972">
           <folding />
         </state>
       </provider>
