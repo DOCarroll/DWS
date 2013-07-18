@@ -2,18 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60819321-cd31-46ad-bce1-fd02541df6be" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textstyles/styling-text.html" afterPath="$PROJECT_DIR$/textstyles/styling-text.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textstyles/css/textstyles.css" afterPath="$PROJECT_DIR$/textstyles/css/textstyles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boxes/box-model.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/boxes/css/boxstyles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DWS.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374015925149" ignored="false" />
+    <file path="/Dummy.txt" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374016136634" ignored="false" />
     <file path="/zen_garden.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1373779211702" ignored="false" />
     <file path="/color.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374012865604" ignored="false" />
     <file path="/main.css" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374013938624" ignored="false" />
     <file path="/styling-text.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374016124225" ignored="false" />
     <file path="/textstyles.css" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374016112412" ignored="false" />
+    <file path="/box-model.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374175172692" ignored="false" />
+    <file path="/boxstyles.css" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374182128603" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,10 +35,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="styling-text.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="styling-text.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/textstyles/styling-text.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="22" selection-start="390" selection-end="390" vertical-scroll-proportion="0.2658789">
+            <state line="48" column="44" selection-start="0" selection-end="8382" vertical-scroll-proportion="-23.833334">
               <folding />
             </state>
           </provider>
@@ -46,6 +48,24 @@
         <entry file="file://$PROJECT_DIR$/csscolors/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
             <state line="15" column="21" selection-start="273" selection-end="289" vertical-scroll-proportion="-9.375">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="box-model.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/boxes/box-model.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="6" selection-start="874" selection-end="874" vertical-scroll-proportion="0.5539143">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="boxstyles.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/boxes/css/boxstyles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="18" selection-start="500" selection-end="500" vertical-scroll-proportion="-15.625">
               <folding />
             </state>
           </provider>
@@ -86,6 +106,9 @@
         <option value="$PROJECT_DIR$/textstyles/css/textstyles.html" />
         <option value="$PROJECT_DIR$/textstyles/css/textstyles.css" />
         <option value="$PROJECT_DIR$/textstyles/styling-text.html" />
+        <option value="$PROJECT_DIR$/boxes/boxstyles.html" />
+        <option value="$PROJECT_DIR$/boxes/box-model.html" />
+        <option value="$PROJECT_DIR$/boxes/css/boxstyles.css" />
       </list>
     </option>
   </component>
@@ -203,6 +226,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DWS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DWS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boxes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DWS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DWS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boxes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -223,6 +278,7 @@
       <recent name="$PROJECT_DIR$/textstyles" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/boxes/css" />
       <recent name="$PROJECT_DIR$/csscolors" />
     </key>
   </component>
@@ -316,7 +372,11 @@
       <created>1374015927279</created>
       <updated>1374015927279</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Added id selector">
+      <created>1374016138790</created>
+      <updated>1374016138790</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -384,7 +444,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added id selector" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -406,6 +466,7 @@
     <MESSAGE value="Complete Finished Upload of Css Colors" />
     <MESSAGE value="Publishing styling-text.html and textstyles.css" />
     <MESSAGE value="Test" />
+    <MESSAGE value="Added id selector" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -439,13 +500,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/textstyles/css/textstyles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="5" selection-start="569" selection-end="569" vertical-scroll-proportion="-23.125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/csscolors/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="21" selection-start="273" selection-end="289" vertical-scroll-proportion="-9.375">
@@ -455,7 +509,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/textstyles/styling-text.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="22" selection-start="390" selection-end="390" vertical-scroll-proportion="0.2658789">
+        <state line="48" column="44" selection-start="0" selection-end="8382" vertical-scroll-proportion="-23.833334">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textstyles/css/textstyles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="5" selection-start="569" selection-end="569" vertical-scroll-proportion="-23.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boxes/css/boxstyles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="18" selection-start="500" selection-end="500" vertical-scroll-proportion="-15.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boxes/box-model.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="6" selection-start="874" selection-end="874" vertical-scroll-proportion="0.5539143">
           <folding />
         </state>
       </provider>
