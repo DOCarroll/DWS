@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60819321-cd31-46ad-bce1-fd02541df6be" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/layout.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layout/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textstyles/css/textstyles.css" afterPath="$PROJECT_DIR$/textstyles/css/textstyles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DWS.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374183351215" ignored="false" />
+    <file path="/Dummy.txt" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374427739013" ignored="false" />
     <file path="/zen_garden.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1373779211702" ignored="false" />
     <file path="/color.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374012865604" ignored="false" />
     <file path="/main.css" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374427506372" ignored="false" />
@@ -110,7 +107,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
+    <option name="x" value="18" />
     <option name="y" value="22" />
     <option name="width" value="1420" />
     <option name="height" value="860" />
@@ -414,11 +411,15 @@
       <created>1374182655630</created>
       <updated>1374182655630</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Uploading newest assignment">
+      <created>1374427741524</created>
+      <updated>1374427741524</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="22" width="1420" height="860" extended-state="0" />
+    <frame x="18" y="22" width="1420" height="860" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -482,7 +483,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uploading Self Assessment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uploading newest assignment" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -507,6 +508,7 @@
     <MESSAGE value="Added id selector" />
     <MESSAGE value="Uploading Assignment" />
     <MESSAGE value="Uploading Self Assessment" />
+    <MESSAGE value="Uploading newest assignment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
