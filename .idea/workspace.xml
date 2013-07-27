@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60819321-cd31-46ad-bce1-fd02541df6be" name="Default" comment="Uploading newest assignment">
+    <list default="true" id="60819321-cd31-46ad-bce1-fd02541df6be" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/background/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/background/backgrounds.html" afterPath="$PROJECT_DIR$/background/backgrounds.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout/css/main.css" afterPath="$PROJECT_DIR$/layout/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DWS.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374963917878" ignored="false" />
+    <file path="/Dummy.txt" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374964052958" ignored="false" />
     <file path="/zen_garden.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1373779211702" ignored="false" />
     <file path="/color.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374012865604" ignored="false" />
     <file path="/main.css" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374961659885" ignored="false" />
@@ -17,7 +19,7 @@
     <file path="/boxstyles.css" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374963710222" ignored="false" />
     <file path="/styles.css" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374963230334" ignored="false" />
     <file path="/layout.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374427225687" ignored="false" />
-    <file path="/backgrounds.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374963251192" ignored="false" />
+    <file path="/backgrounds.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374964444586" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,19 +48,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="backgrounds.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="backgrounds.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/background/backgrounds.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="5" selection-start="994" selection-end="994" vertical-scroll-proportion="-16.25">
+            <state line="5" column="49" selection-start="143" selection-end="143" vertical-scroll-proportion="0.1014885">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/layout/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="57" selection-start="487" selection-end="487" vertical-scroll-proportion="0.5412371">
+            <state line="8" column="0" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/box-model/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="913" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/background/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="53" column="1" selection-start="913" selection-end="913" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -91,7 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/zen_garden.html" />
         <option value="$PROJECT_DIR$/color.html" />
         <option value="$PROJECT_DIR$/csscolors/css/main.css.html" />
         <option value="$PROJECT_DIR$/csscolors/color.html" />
@@ -103,10 +122,11 @@
         <option value="$PROJECT_DIR$/layout/layout.html" />
         <option value="$PROJECT_DIR$/background/css/main.css" />
         <option value="$PROJECT_DIR$/textstyles/css/textstyles.css" />
-        <option value="$PROJECT_DIR$/background/backgrounds.html" />
         <option value="$PROJECT_DIR$/boxes/css/boxstyles.css" />
-        <option value="$PROJECT_DIR$/box-model/css/styles.css" />
         <option value="$PROJECT_DIR$/layout/css/main.css" />
+        <option value="$PROJECT_DIR$/box-model/css/styles.css" />
+        <option value="$PROJECT_DIR$/background/css/styles.css" />
+        <option value="$PROJECT_DIR$/background/backgrounds.html" />
       </list>
     </option>
   </component>
@@ -350,6 +370,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DWS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DWS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="background" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -370,6 +408,7 @@
       <recent name="$PROJECT_DIR$/textstyles" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/background/css" />
       <recent name="$PROJECT_DIR$/background/images" />
       <recent name="$PROJECT_DIR$/layout/css" />
       <recent name="$PROJECT_DIR$/boxes/css" />
@@ -490,7 +529,11 @@
       <created>1374963875614</created>
       <updated>1374963875614</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Uploading newest assignment">
+      <created>1374964054608</created>
+      <updated>1374964054608</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -666,23 +709,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/layout/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/background/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="1" selection-start="913" selection-end="913" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/box-model/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="913" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/background/backgrounds.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="5" selection-start="994" selection-end="994" vertical-scroll-proportion="-16.25">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layout/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="57" selection-start="487" selection-end="487" vertical-scroll-proportion="0.5412371">
+        <state line="5" column="49" selection-start="143" selection-end="143" vertical-scroll-proportion="0.1014885">
           <folding />
         </state>
       </provider>
