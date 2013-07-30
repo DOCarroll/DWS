@@ -46,9 +46,36 @@ li{
     margin: 0 3px 0 3px;
     display:inline;
     font:italic bolder 20px "Arial", sans-serif ;
+    padding-right:5px;
 }
 
-#container {
+section {
     background: linear-gradient(to bottom, #000000, #008fb8);
     float: left;
 }
+footer {
+    padding-left:10px;
+}
+footer section header nav {
+    display: block;
+}
+table {
+    width:400px;
+    text-align:center;
+    background-color:#006363;
+    border:solid 2px;
+    border-color:deepskyblue;
+    font-size: 20px;
+    padding:10px;
+    margin-left:180px;
+    margin-bottom:10px;
+    border-spacing:1px;
+}
+th {
+    text-align:left;
+    margin-right:5px;
+}
+tr:hover {
+    background-color:cornflowerblue;
+}
+
