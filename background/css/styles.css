@@ -78,4 +78,17 @@ th {
 tr:hover {
     background-color:cornflowerblue;
 }
-
+form label {
+    font-size:20px;
+    text-align: right;
+    padding:5px;
+    color:white;
+}
+form :hover {
+    background-color:blue;
+}
+form input :focus
+{
+    background-color:lightskyblue;
+    border:solid 1px red;
+}
