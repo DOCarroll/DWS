@@ -1,0 +1,148 @@
+#container {
+    width:800px;
+    margin-left:300px;
+    border:#3ac0eb solid 5px;
+    border-radius:20px;
+    padding:0 20px;
+    background:linear-gradient(to bottom, #FFFFFF, #ff69b4);
+    box-shadow: 3px 3px;
+
+}
+h1 {
+    height:100px;
+    margin-left:300px;
+    font: 100px "Finger Paint", cursive;
+    color:#3ac0eb;
+    border: solid #ff69b4 5px;
+    width:800px;
+    padding:0 20px;
+    line-height: 100px;
+    border-radius: 20px;
+    margin-bottom:5px;
+    text-align: center;
+    background: linear-gradient(to bottom,#FFFFFF, #ff69b4);
+    box-shadow: #000000 3px 3px;
+
+}
+
+nav {
+    float:left;
+    background-image:url("../images/blink_182_bunny.gif");
+    height:288px;
+    width:285px;
+    border:solid #ff69b4 5px;
+    border-radius: 20px;
+    position:fixed;
+    top:70px;
+    box-shadow: 3px 3px;
+
+}
+
+body {
+    background: linear-gradient(to bottom, #e5e5e5, #3ac0eb, #ff69b4);
+}
+
+nav ul li{
+    font: 30px "Finger Paint", cursive;
+    opacity:.9;
+    color:#3ac0eb;
+    list-style: none;
+    text-shadow: 1px 1px;
+}
+nav ul li :visited {
+    color:#000000;
+    text-decoration: none;
+}
+nav ul li :hover {
+    color:#ff69b4;
+}
+
+ul li{
+    list-style: none;
+}
+ul li h3 {
+    color:#3ac0eb;
+}
+h2
+{
+    font: 30px "Finger Paint", cursive;
+}
+
+footer {
+    padding:5px;
+}
+#markh{
+    border:#3ac0eb solid 3px;
+    border-radius: 20px;
+    padding:10px;
+    float:right;
+    width:220px;
+    clear:both;
+
+}
+#travisb{
+    border:#3ac0eb solid 3px;
+    border-radius: 20px;
+    padding:10px;
+    float:right;
+    width:220px;
+    clear:both;
+
+}
+#tomd{
+    border:#3ac0eb solid 3px;
+    border-radius: 20px;
+    padding:10px;
+    float:right;
+    width:220px;
+    clear:both;
+
+}
+
+th {
+    color:#3ac0eb;
+    font: 18px "Finger Paint", cursive;
+    text-align: left;
+    margin-right:5px;
+
+}
+table{
+    border:#3ac0eb 2px dotted;
+    border-spacing: 5px;
+    background:linear-gradient(to right, #FFFFFF, #ff69b4);
+}
+tr :hover {
+    background-color:#FFFFFF;
+}
+
+input {
+    display:inline-block;
+}
+
+label
+{
+    color:#3ac0eb;
+    font:16px "Finger Paint", cursive;
+}
+form p {
+    color:#3ac0eb;
+    font:16px "Finger Paint", cursive;
+}
+form {
+    background:linear-gradient(to left, #3ac0eb, #ff69b4);
+    border: #000000 solid 3px;
+    width:370px;
+    padding:5px;
+    margin-bottom:5px;
+    margin-left:200px;
+
+}
+form :hover{
+      color:#000000;
+}
+form :focus{
+    color:#000000;
+}
+ol {
+ margin-left:200px;
+}
