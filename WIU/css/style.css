@@ -1,0 +1,47 @@
+#container {
+    border: #f08a28 solid 3px;
+    border-radius: 20px;
+    width:960px;
+    margin:0 auto;
+    padding:20px;
+    background-color: #FFFFFF;
+    padding-bottom:40px;
+    padding-top:0;
+}
+body {
+    background-color: #008fb8;
+    font-family: "Helvetica", sans-serif;
+}
+#surf {
+    border: #f08a28 solid 2px;
+    border-radius:5px;
+    float:right;
+    margin-left: 5px;
+}
+h1 {
+    border-bottom: #008fb8 solid 2px;
+    color:#f08a28;
+    font-family: "Helvetica", sans-serif;
+}
+.even {
+    background-color: #f08a28;
+}
+.odd {
+    background-color: #ffb273;
+}
+table {
+    width:400px;
+    margin: 0 auto;
+    font-family: "Helvetica", sans-serif;
+}
+th {
+    text-align: left;
+}
+tr:hover{
+    background-color: #008fb8;
+}
+
+p{
+    width:550px;
+    color:#7a7a7a;
+}
