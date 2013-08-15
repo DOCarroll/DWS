@@ -7,7 +7,7 @@
     </list>
     <ignored path="DWS.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1376411815893" ignored="false" />
+    <file path="/Dummy.txt" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1376572830696" ignored="false" />
     <file path="/zen_garden.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1373779211702" ignored="false" />
     <file path="/color.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374012865604" ignored="false" />
     <file path="/main.css" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374961659885" ignored="false" />
@@ -20,7 +20,7 @@
     <file path="/backgrounds.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374964444586" ignored="false" />
     <file path="/html5-layout-tables.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1375220338275" ignored="false" />
     <file path="/forms.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1375396959594" ignored="false" />
-    <file path="/index.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1376572827484" ignored="false" />
+    <file path="/index.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1376572865870" ignored="false" />
     <file path="/style.css" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1375816365842" ignored="false" />
     <file path="$USER_HOME$/Blah/index.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1375826240964" ignored="false" />
     <file path="$USER_HOME$/Blah/css/styles.css" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1375826281798" ignored="false" />
@@ -64,7 +64,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WIU/WorldSurf/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="89" selection-start="1559" selection-end="1559" vertical-scroll-proportion="0.5125554">
+            <state line="24" column="183" selection-start="1653" selection-end="1653" vertical-scroll-proportion="0.5125554">
               <folding />
             </state>
           </provider>
@@ -362,7 +362,11 @@
       <created>1376411819359</created>
       <updated>1376411819359</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Fixed Table Width error">
+      <created>1376572833389</created>
+      <updated>1376572833389</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -547,7 +551,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WIU/WorldSurf/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="89" selection-start="1559" selection-end="1559" vertical-scroll-proportion="0.5125554">
+        <state line="24" column="183" selection-start="1653" selection-end="1653" vertical-scroll-proportion="0.5125554">
           <folding />
         </state>
       </provider>
