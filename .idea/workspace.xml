@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60819321-cd31-46ad-bce1-fd02541df6be" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WIU/Practice/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WIU/Practice/styles.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WIU/css/style.css" afterPath="$PROJECT_DIR$/WIU/WorldSurf/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WIU/images/surfer.jpg" afterPath="$PROJECT_DIR$/WIU/WorldSurf/images/surfer.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WIU/index.html" afterPath="$PROJECT_DIR$/WIU/WorldSurf/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WIU/WorldSurf/index.html" afterPath="$PROJECT_DIR$/WIU/WorldSurf/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DWS.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1376407373835" ignored="false" />
+    <file path="/Dummy.txt" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1376411815893" ignored="false" />
     <file path="/zen_garden.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1373779211702" ignored="false" />
     <file path="/color.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374012865604" ignored="false" />
     <file path="/main.css" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374961659885" ignored="false" />
@@ -24,7 +20,7 @@
     <file path="/backgrounds.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1374964444586" ignored="false" />
     <file path="/html5-layout-tables.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1375220338275" ignored="false" />
     <file path="/forms.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1375396959594" ignored="false" />
-    <file path="/index.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1376411802555" ignored="false" />
+    <file path="/index.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1376572827484" ignored="false" />
     <file path="/style.css" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1375816365842" ignored="false" />
     <file path="$USER_HOME$/Blah/index.html" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1375826240964" ignored="false" />
     <file path="$USER_HOME$/Blah/css/styles.css" changelist="60819321-cd31-46ad-bce1-fd02541df6be" time="1375826281798" ignored="false" />
@@ -68,7 +64,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WIU/WorldSurf/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="85" selection-start="1334" selection-end="1334" vertical-scroll-proportion="0.44608566">
+            <state line="24" column="89" selection-start="1559" selection-end="1559" vertical-scroll-proportion="0.5125554">
               <folding />
             </state>
           </provider>
@@ -362,13 +358,18 @@
       <created>1375816639051</created>
       <updated>1375816639051</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Fixed Table Width error">
+      <created>1376411819359</created>
+      <updated>1376411819359</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="22" width="1420" height="860" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3034826" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -382,7 +383,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3034826" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -547,7 +547,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WIU/WorldSurf/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="85" selection-start="1334" selection-end="1334" vertical-scroll-proportion="0.44608566">
+        <state line="24" column="89" selection-start="1559" selection-end="1559" vertical-scroll-proportion="0.5125554">
           <folding />
         </state>
       </provider>
